@@ -3,7 +3,26 @@
 
     <string name="app_name">Map Meet</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="next">Find Next Meeting</string>
-
+    <string name="next">Show Meeting</string>
+    <string name="title_make">New Meeting</string>
+	<string name="title_map">Find Meetings</string>
+	<string name="title">Meeting title:</string>
+	<string name="adorloc">Address or Location</string>
+	<string name="mtgtitle">Meeting Title</string>
+	<string name="date">Mon/Day/Yr</string>
+	<string name="time">00:00pm</string>
+	<string name="attendees">Attendees are&#8230;</string>
+	<string name="newmtg">Setup a New Meeting</string>
+	<string name="gtitle">"Title:"</string>
+	<string name="gdate">Date:</string>
+	<string name="gtime">Time:</string>
+	<string name="gattend">Attendees:</string>
+	<string name="mtgatt">" "</string>
+	<string name="name">Your Full Name</string>
+	<string name="findmtgs">Find Your Meetings</string>
+	<string name="entername">Enter full name to find meetings&#8230;</string>
+	<string name="successmsg">Your meeting has been saved!</string>
+	<string name="failmsg">There was an error, the meeting wasn\'t saved.</string>
+	<string name="nomeetings">You don\'t have anymore meetings.</string>
+	<string name="getmtgs">Get Meetings</string>
 </resources>
